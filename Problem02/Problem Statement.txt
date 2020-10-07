@@ -1,0 +1,17 @@
+
+Problem statement:
+
+Group Anagrams- You have given a list of words. Write a program to returns a list of sets of anagrams.
+
+
+
+Input:
+List of words to porcess
+['cat', 'dog', 'god']
+
+Output:
+[{'cat'}, {'dog', 'god'}]
+
+Explanation:
+The string is anagram if it is formed by changing the positions of the characters.
+It means anagram strings will be having the same set of characters and the same length.
