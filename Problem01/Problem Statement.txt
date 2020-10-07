@@ -1,0 +1,14 @@
+
+Problem statement:
+
+You have given an array (list in case of Python). Find the index of the element in the array such that the sum of all 
+the elements left to the index is equal to the sum of all the elements right to the index.
+
+Input:
+[2, 4, 5, 1, 2, 3]
+
+Ouptut:
+2
+
+Explanation:
+The left and right sub array for the index "2" is [2, 4] and [1, 2, 3]. The sum of both the sub array is 6. 
