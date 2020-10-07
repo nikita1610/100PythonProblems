@@ -1,0 +1,18 @@
+
+Problem statement:
+
+Write a program to find the lexicographically smallest and largest substring from given string ‘s’ of the length ‘k’
+
+
+Input:
+s="stack"
+
+Output:
+Lexicographically Smallest Substring: "ack"
+Lexicographically Largest Substring: "tac"
+
+Explanation:
+Suppose you’re given a String s="stack" and given the integer k=3.
+Here, integer k=3 denotes the length of  possible substrings from the given string .
+The possible substrings would be : ["sta","tac","ack"]
+And from these we can find the lexicographcally smallest and largest string
