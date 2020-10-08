@@ -24,5 +24,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 10: Return two prime numbers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem10)
 
+[Problem 11: Rotate a matrix by 90 degrees anticlockwise](https://github.com/nikita1610/100PythonProblems/tree/master/Problem11)
 
 
