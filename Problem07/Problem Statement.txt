@@ -1,0 +1,15 @@
+Problem statement:
+In an array A of size N find all pairs in the list that sum to a number K. 
+If no such pair exists then output will be -1
+
+Input:
+list[1,2,3,4,5,6,7]
+sum=8
+
+Output:
+1 7 8
+2 6 8
+3 5 8
+
+Explanation:
+We find 3 such pairs that sum to 8 (1,7) (2,6) (3,5)
