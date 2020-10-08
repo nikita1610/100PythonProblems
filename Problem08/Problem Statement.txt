@@ -1,0 +1,14 @@
+Problem statement:
+Print 1 if there exist three elements in A whose sum is exactly x, else 0.
+
+
+Input:
+list[1,4,45,6,10,8]
+sum=13
+
+Output:
+1 
+
+Explanation:
+We find (8+4+1)=13 so we return 1
+
