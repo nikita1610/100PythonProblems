@@ -1,0 +1,18 @@
+Problem statement:
+Find the minimum distance required for the truck to deliver the order.
+
+Input:
+[14, 25, 5, 8 ]
+
+Output:
+92
+
+Explanation:
+1. First, two orders of size 5 and 8 will be delivered. It will cost 13 (5+8). 
+   The updated orders on the list are [14, 25, 13].
+
+2. In the next turn, two orders of size 13 and 14 will be delivered. 
+   It will cost 27 (13+14). The updated orders win the list are [25, 27]
+
+3.Finally, 25 and 27 will merge to [52], it will cost 52.
+  The total cost to deliver all the orders  is 92 (13+27+52).
