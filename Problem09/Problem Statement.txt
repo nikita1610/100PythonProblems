@@ -1,0 +1,17 @@
+Problem statement:
+Hailstone sequence with and without recursion.
+
+
+Input:
+n=17
+
+Output:
+[17, 52, 26, 13, 40, 20, 10, 5 ,16 , 8 ,4 ,2 ,1]
+
+Explanation:
+ake a number (says ‘n’) as an input.
+Print the value of ‘n’.
+while n != 1
+a) Print the value of ‘n’.
+b) If ‘n’ is odd, calculate the next number as n*3+1.
+c) If ‘n’ is even, calculate the next number as n/2.
