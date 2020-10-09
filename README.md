@@ -28,4 +28,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 12: Search in a row wise and column wise sorted matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem12)
 
+[Problem 13 : Odd and Even Sorting](https://github.com/nikita1610/100PythonProblems/tree/master/Problem13)
+
+
 

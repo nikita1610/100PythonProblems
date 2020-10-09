@@ -1,0 +1,13 @@
+Problem statement:
+Odd and Even Sorting
+
+Input:  [4,2,5,7]
+
+Output:
+[4,5,2,7]
+or any other possible answer
+
+Explanation:
+Given a list of non-negative integers and half of them are even and half of them are odd.
+Sort the list such whenever a[i] is odd , i is also odd and whenever a[i] is even i is also even.
+You may return any answer that satisifies the condition.
