@@ -1,0 +1,8 @@
+Problem statement:
+Sort an array of 0s, 1s and 2s
+
+Input:  [0, 1, 2, 0, 1, 2]
+
+Output:
+[0, 0, 1, 1, 2, 2]
+
