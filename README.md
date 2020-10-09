@@ -26,4 +26,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 11: Rotate a matrix by 90 degrees anticlockwise](https://github.com/nikita1610/100PythonProblems/tree/master/Problem11)
 
+[Problem 12: Search in a row wise and column wise sorted matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem12)
+
 
