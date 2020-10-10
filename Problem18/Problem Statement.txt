@@ -1,0 +1,15 @@
+Problem statement:
+Maximum Sum Sub-Array Problem
+
+Input:  
+[-2, -3, 4, -1, -2, 1, 5, -3]
+
+Output:
+7
+
+
+Explanation:
+the maximum sum is obtained by sub-array:
+4+(-1)+(-2)+1+5 =7
+
+

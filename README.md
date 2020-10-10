@@ -36,6 +36,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 16 : Sum of Boundary Elements of a matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem16)
 
-[Problem 17: Separate odd and negative numbers in a list(https://github.com/nikita1610/100PythonProblems/tree/master/Problem17)
+[Problem 17: Separate odd and negative numbers in a list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem17)
+
+[Problem 18: Maximum Sum Sub-Array Problem](https://github.com/nikita1610/100PythonProblems/tree/master/Problem18)
 
 
