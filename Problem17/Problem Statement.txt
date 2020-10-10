@@ -1,0 +1,15 @@
+Problem statement:
+Separate odd and negative numbers in a list
+
+Input:  
+[-4,8,0,-9,-11,6,5]
+
+Output:
+[-4,-9,-11,0,8,6,5]
+
+
+Explanation:
+Separate negative integers to left side of the list and positive to right side of list.
+
+
+
