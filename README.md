@@ -46,4 +46,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 21: Rotate an array clockwise by given  d times](https://github.com/nikita1610/100PythonProblems/tree/master/Problem21)
 
+[Problem 22: Subarray with given sum](https://github.com/nikita1610/100PythonProblems/tree/master/Problem22)
+
 

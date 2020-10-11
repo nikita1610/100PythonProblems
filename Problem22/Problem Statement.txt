@@ -1,0 +1,15 @@
+Problem statement:
+Subarray with given sum
+
+Input:  
+[4,8,0,9,11,6,5]
+sum=22
+
+Output:
+4,6
+
+Explanation : 
+in the given list 11+6+5 =22
+starting index is 4
+ending index is 6
+
