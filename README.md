@@ -44,4 +44,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 20:  Rotate an array anticlockwise by given  d times](https://github.com/nikita1610/100PythonProblems/tree/master/Problem20)
 
+[Problem 21: Rotate an array clockwise by given  d times](https://github.com/nikita1610/100PythonProblems/tree/master/Problem21)
+
 

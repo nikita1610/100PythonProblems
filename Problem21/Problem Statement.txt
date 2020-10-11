@@ -1,0 +1,17 @@
+Problem statement:
+Rotate an array clockwise by given  d times
+
+
+Input:  
+[1,2,3,4,5,6,7]
+d=2
+
+Output:
+[6,7,1,2,3,4,5]
+
+Explanation : 
+The list after one clockwise rotation will be:
+[7,1,2,3,4,5,6]
+After next rotation array will be:
+[6,7,1,2,3,4,5]
+
