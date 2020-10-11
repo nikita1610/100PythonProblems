@@ -1,0 +1,23 @@
+Problem statement:
+Number of subarrays with even sum
+
+Input:  
+[1, 2, 2, 3, 4, 1]
+
+
+Output:
+9
+
+Explanation : 
+The array {1, 2, 2, 3, 4, 1} 
+has 9 such possible subarrays. These are-
+ {1, 2, 2, 3}          Sum = 8
+ {1, 2, 2, 3, 4}       Sum = 12
+ {2}                   Sum = 2 (At index 1)
+ {2, 2}                Sum = 4
+ {2, 2, 3, 4, 1}       Sum = 12
+ {2}                   Sum = 2 (At index 2)
+ {2, 3, 4, 1}          Sum = 10
+ {3, 4, 1}             Sum = 8
+ {4}                   Sum = 4
+

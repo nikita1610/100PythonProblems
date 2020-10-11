@@ -48,4 +48,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 22: Subarray with given sum](https://github.com/nikita1610/100PythonProblems/tree/master/Problem22)
 
+[Problem 23: Number of subarrays with even sum](https://github.com/nikita1610/100PythonProblems/tree/master/Problem23)
+
 
