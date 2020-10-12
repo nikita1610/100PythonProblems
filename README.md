@@ -56,5 +56,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 26: Leaders in a list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem26)
 
+[Problem 27: Count number of occurrences (or frequency) in a sorted array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem27)
+
 
 

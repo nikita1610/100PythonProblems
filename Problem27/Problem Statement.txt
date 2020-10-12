@@ -1,0 +1,13 @@
+Problem statement:
+Count number of occurrences (or frequency) in a sorted array
+
+Input:  
+[1, 1, 2, 2, 2, 2, 3]  
+x = 2
+
+
+Output:
+4
+
+Explanation : 
+2 occurs 4 times in the list.
