@@ -54,5 +54,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 25: Given a list print all the peak elements](https://github.com/nikita1610/100PythonProblems/tree/master/Problem25)
 
+[Problem 26: Leaders in a list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem26)
+
 
 

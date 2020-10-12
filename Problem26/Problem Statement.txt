@@ -1,0 +1,13 @@
+Problem statement:
+Leaders in a list
+
+Input:  
+[16 ,17, 4, 3 ,5, 2]
+
+
+Output:
+17 5 2
+
+Explanation : 
+An element of array is leader if it is greater than or 
+equal to all the elements to its right side. Also, the rightmost element is always a leader. 
