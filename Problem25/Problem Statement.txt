@@ -1,0 +1,16 @@
+Problem statement:
+Given a list print all the peak elements
+
+Input:  
+[10, 20, 15, 2, 23, 90, 67]
+
+
+Output:
+20 90
+
+Explanation : 
+An array element is a peak if it is NOT smaller than its neighbours. 
+For corner elements, we need to consider only one neighbour.
+The element 20 has neighbours 10 and 15, 
+both of them are less than 20, similarly 90 has neighbous 23 and 67.
+

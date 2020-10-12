@@ -52,4 +52,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 24: Majority Element](https://github.com/nikita1610/100PythonProblems/tree/master/Problem24)
 
+[Problem 25: Given a list print all the peak elements](https://github.com/nikita1610/100PythonProblems/tree/master/Problem25)
+
+
 
