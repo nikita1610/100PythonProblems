@@ -1,0 +1,12 @@
+Problem statement:
+calculate the prime numbers up to N using Sieve of Eratosthenes.
+
+Input:  
+n=10
+
+
+Output:
+2,3,5,7
+
+Explanation : 
+prime numbers upto 10 are 2,3,5,7
