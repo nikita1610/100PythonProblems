@@ -64,5 +64,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 30: Transition point in a sorted list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem30)
 
+[Problem 31: Prime numbers in a range](https://github.com/nikita1610/100PythonProblems/tree/master/Problem31)
+
 
 

@@ -1,0 +1,12 @@
+Problem statement:
+Prime numbers in a range
+
+Input:  
+n=1
+m=10
+
+Output:
+2 3 5 7
+
+Explanation : 
+The prime numbers between 1 and 10 (both inclusive ) are 2,3,5,7
