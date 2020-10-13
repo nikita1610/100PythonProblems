@@ -60,5 +60,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 28: Prime numbers up to N using Sieve of Eratosthenes](https://github.com/nikita1610/100PythonProblems/tree/master/Problem28)
 
+[Problem 29: Maximum no of 1's row ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem29)
+
 
 
