@@ -1,0 +1,13 @@
+Problem statement:
+Transition point in a sorted list
+
+Input:  
+[0,0,0,1,1]
+
+Output:
+3
+
+Explanation : 
+The transition point is a point where "0" ends and "1" begins (0 based indexing).
+Note that, if there is no "1" exists, print -1.
+Note that, in case of all 1s print 0.
