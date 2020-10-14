@@ -1,0 +1,15 @@
+Problem statement:
+Sum of digits prime/non-prime
+
+Input:  
+5601
+
+Output:
+Prime
+
+Explanation :
+A program that finds the sum of digits of the number 
+till the number becomes a single digit and then check whether the number is Prime/Non-Prime. 
+5+6+0+1=12
+1+2=3
+3 is prime

@@ -68,5 +68,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 32: Convert an array to reduced form](https://github.com/nikita1610/100PythonProblems/tree/master/Problem32)
 
+[Problem 33: Sum of digits prime/non-prime](https://github.com/nikita1610/100PythonProblems/tree/master/Problem33)
+
 
 
