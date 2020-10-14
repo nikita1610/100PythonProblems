@@ -66,5 +66,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 31: Prime numbers in a range](https://github.com/nikita1610/100PythonProblems/tree/master/Problem31)
 
+[Problem 32: Convert an array to reduced form](https://github.com/nikita1610/100PythonProblems/tree/master/Problem32)
+
 
 
