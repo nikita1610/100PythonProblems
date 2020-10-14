@@ -70,5 +70,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 33: Sum of digits prime/non-prime](https://github.com/nikita1610/100PythonProblems/tree/master/Problem33)
 
+[Problem 34: Sum of digits till single digit](https://github.com/nikita1610/100PythonProblems/tree/master/Problem34)
+
 
 
