@@ -1,0 +1,18 @@
+Problem statement:
+Minimum no of 1's row 
+
+Input:  
+N = 4 M=4
+n*m space separated integers
+0 0 0 1 0 1 1 1 0 0 1 1 0 0 1 1
+
+
+Output:
+1
+
+Explanation : 
+Print the index of the row with minimum number of 1's. If there is 0 number of '1' in the matrix then, print '-1'.
+If two or more rows have same number of 1's than print the row with smallest index.
+Row 0 has 3 ones whereas
+rows 1 and 2 have just 2 ones.
+

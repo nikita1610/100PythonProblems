@@ -74,5 +74,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 35: Alternative Sorting](https://github.com/nikita1610/100PythonProblems/tree/master/Problem35)
 
+[Problem 36: Minimum no of 1's row ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem36)
+
+
 
 
