@@ -76,6 +76,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 36: Minimum no of 1's row ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem36)
 
+[Problem 37: Boolean Matrix Problem ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem37)
+
 
 
 
