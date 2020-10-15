@@ -72,5 +72,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 34: Sum of digits till single digit](https://github.com/nikita1610/100PythonProblems/tree/master/Problem34)
 
+[Problem 35: Alternative Sorting](https://github.com/nikita1610/100PythonProblems/tree/master/Problem35)
+
 
 
