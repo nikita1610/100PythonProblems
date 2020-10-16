@@ -78,9 +78,12 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 37: Boolean Matrix Problem ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem37)
 
-[Problem 38: Longest Consecutive Subsequence(https://github.com/nikita1610/100PythonProblems/tree/master/Problem38)
+[Problem 38: Longest Consecutive Subsequence](https://github.com/nikita1610/100PythonProblems/tree/master/Problem38)
 
 [Problem 39: Smith Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem39)
+
+[Problem 40: First K natural numbers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem40)
+
 
 
 
