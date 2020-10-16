@@ -80,5 +80,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 38: Longest Consecutive Subsequence(https://github.com/nikita1610/100PythonProblems/tree/master/Problem38)
 
+[Problem 39: Smith Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem39)
+
 
 

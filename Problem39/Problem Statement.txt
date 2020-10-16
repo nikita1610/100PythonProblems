@@ -1,0 +1,15 @@
+Problem statement:
+Smith Number
+
+Input: 
+4
+
+Output:
+Yes
+
+Explanation : 
+A Smith Number is a composite number whose sum of digits is equal to the sum of digits in its prime factorization.
+Input  : n = 4
+Output : Yes
+Prime factorization = 2, 2  and 2 + 2 = 4
+Therefore, 4 is a smith number
