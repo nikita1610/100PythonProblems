@@ -1,0 +1,23 @@
+Problem statement:
+Strong Number
+
+Input: 
+145
+
+Output:
+Yes
+
+
+Explanation : 
+If the sum of the factorials of individual digits of a given number is equal to the 
+same number then it is known as the Strong number.
+
+Example
+
+n= 145
+= 1! +4!+5!
+= 1 + 24 + 120
+= 145
+
+145 = 1! + 4! + 5!
+Therefore 145 is a Strong number

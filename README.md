@@ -88,6 +88,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 42: Prime Factors and their Powers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem42)
 
+[Problem 43: Strong Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem43)
+
 
 
 
