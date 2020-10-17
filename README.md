@@ -84,6 +84,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 40: First K natural numbers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem40)
 
+[Problem 41: Remove all prime numbers from a list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem41)
+
 
 
 
