@@ -1,0 +1,14 @@
+Problem statement:
+Prime Factors and their Powers 
+
+Input: 
+100
+
+Output:
+Factor   Power
+  2        2
+  5        2
+
+
+Explanation : 
+Given a number N, print all its unique prime factors and their powers in N.

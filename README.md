@@ -86,6 +86,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 41: Remove all prime numbers from a list](https://github.com/nikita1610/100PythonProblems/tree/master/Problem41)
 
+[Problem 42: Prime Factors and their Powers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem42)
+
 
 
 
