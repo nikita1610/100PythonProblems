@@ -90,6 +90,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 43: Strong Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem43)
 
+[Problem 44: Remove All Duplicates Chars from a given String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem44)
+
 
 
 
