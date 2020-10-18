@@ -94,6 +94,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 45: HourGlass with Largest sum in a Matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem45)
 
+[Problem 46: Next greater number with same set of digits](https://github.com/nikita1610/100PythonProblems/tree/master/Problem46)
+
 
 
 
