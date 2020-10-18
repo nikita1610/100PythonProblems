@@ -92,6 +92,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 44: Remove All Duplicates Chars from a given String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem44)
 
+[Problem 45: HourGlass with Largest sum in a Matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem45)
+
 
 
 
