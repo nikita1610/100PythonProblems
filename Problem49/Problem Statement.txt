@@ -1,0 +1,16 @@
+Problem statement:
+Check whether K-th bit is set or not 
+
+
+Input:
+n=4
+k=0
+
+Output:
+No
+
+
+Explanation:
+Binary representation of 4 is 100, in which 0th bit from LSB is not set. So, answer is No.
+ 
+
