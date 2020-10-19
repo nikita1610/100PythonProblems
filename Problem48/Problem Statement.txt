@@ -1,0 +1,12 @@
+Problem statement:
+Trapping Rain Water
+
+Input:
+7 4 0 9
+
+Output:
+10
+
+Explanation : 
+Water trapped by block of height 4 is 3 units, 
+block of height 0 is 7 units. So, total unit of water trapped is 10 units.

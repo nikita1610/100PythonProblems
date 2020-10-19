@@ -98,6 +98,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 47: Generate Balanced Parentheses](https://github.com/nikita1610/100PythonProblems/tree/master/Problem47)
 
+[Problem 48: Trapping Rain Water](https://github.com/nikita1610/100PythonProblems/tree/master/Problem48)
+
 
 
 
