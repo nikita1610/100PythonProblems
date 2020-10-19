@@ -96,6 +96,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 46: Next greater number with same set of digits](https://github.com/nikita1610/100PythonProblems/tree/master/Problem46)
 
+[Problem 47: Generate Balanced Parentheses](https://github.com/nikita1610/100PythonProblems/tree/master/Problem47)
+
 
 
 

@@ -1,0 +1,16 @@
+Problem statement:
+Generate Balanced Parentheses
+
+Input:
+
+n = 2 (number of parenthesis)
+
+Output:
+
+(())
+()()
+
+
+Explanation : 
+Given a number n, the number of paretheses,
+generate all possible of valid parentheses.
