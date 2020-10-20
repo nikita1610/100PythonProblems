@@ -1,0 +1,14 @@
+Problem statement:
+Power Set of a String
+
+
+Input:
+"abc'
+
+Output:
+["" ,"a", "ab", "abc", "ac", "b", "bc", "c"]
+
+
+Explanation:
+There are 8 substrings that 
+can be formed from abc
