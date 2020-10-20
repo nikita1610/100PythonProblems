@@ -104,6 +104,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 50: Two numbers with odd occurrences](https://github.com/nikita1610/100PythonProblems/tree/master/Problem50)
 
+[Problem 51: Count set bits in an integer](https://github.com/nikita1610/100PythonProblems/tree/master/Problem51)
+
 
 
 

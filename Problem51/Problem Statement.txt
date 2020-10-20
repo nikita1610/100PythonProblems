@@ -1,0 +1,14 @@
+Problem statement:
+Count set bits in an integer
+
+
+Input:
+n = 6
+
+Output:
+2
+
+
+Explanation:
+Binary representation of 6 is 110 and has 2 set bits
+
