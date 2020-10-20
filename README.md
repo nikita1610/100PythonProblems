@@ -102,6 +102,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [problem 49: Check whether K-th bit is set or not](https://github.com/nikita1610/100PythonProblems/tree/master/Problem49)
 
+[Problem 50: Two numbers with odd occurrences](https://github.com/nikita1610/100PythonProblems/tree/master/Problem50)
+
 
 
 
