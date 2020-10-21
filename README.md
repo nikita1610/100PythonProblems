@@ -110,6 +110,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 53: Merge Overlapping Intervals](https://github.com/nikita1610/100PythonProblems/tree/master/Problem53)
 
+[Problem 54: Sort an array in wave form](https://github.com/nikita1610/100PythonProblems/tree/master/Problem54)
+
 
 
 
