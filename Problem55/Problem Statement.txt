@@ -1,0 +1,15 @@
+Problem statement:
+Reverse Bitonic String
+
+
+Input:
+str = “zyxbcd” 
+
+Output:
+Yes
+
+Explanation:
+A Reverse Bitonic String is a string in which the characters are arranged in decreasing order 
+followed by increasing order of their ASCII values. 
+In the above string, the ASCII values first decreases {z, y, x} and then increases {b, c, d}.
+ 
