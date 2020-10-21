@@ -106,7 +106,9 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 51: Count set bits in an integer](https://github.com/nikita1610/100PythonProblems/tree/master/Problem51)
 
-[Problem 52: Power Set of a String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem51)
+[Problem 52: Power Set of a String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem52)
+
+[Problem 53: Merge Overlapping Intervals](https://github.com/nikita1610/100PythonProblems/tree/master/Problem53)
 
 
 
