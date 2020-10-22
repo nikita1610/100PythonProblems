@@ -1,0 +1,17 @@
+Problem statement:
+Balanced Array 
+
+
+Input:
+arr[] = [1, 5, 3, 2]
+
+Output:
+1
+
+Explanation:
+Sum of first 2 elements is 1 + 5  = 6, 
+Sum of last 2 elements is 3 + 2  = 5,
+To make the array balanced you can add 1.
+
+
+ 
