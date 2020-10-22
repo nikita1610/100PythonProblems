@@ -114,6 +114,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 55: Reverse Bitonic String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem55)
 
+[Problem 56: Bitonic Matrix](https://github.com/nikita1610/100PythonProblems/tree/master/Problem56)
+
 
 
 

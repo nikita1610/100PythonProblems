@@ -1,0 +1,25 @@
+Problem statement:
+Bitonic Matrix
+
+
+Input:
+mat=[[2, 3, 4], [1, 2, 3], [4, 5, 6] ] 
+
+Output:
+Yes
+
+Explanation:
+If all the rows and the columns of the given matrix have elements in one of the following orders:
+
+Strictly increasing
+Strictly decreasing
+Strictly decreasing followed by strictly increasing
+Then the given matrix is said to be a Reverse Bitonic Matrix
+
+All the rows of the given matrix forms an increasing sequence. 
+All the columns of the given matrix {2, 1, 4}, {3, 2, 5}, {4, 3, 6} 
+forms a decreasing followed by increasing sequence. 
+Therefore, the matrix is Reverse Bitonic.
+
+
+ 
