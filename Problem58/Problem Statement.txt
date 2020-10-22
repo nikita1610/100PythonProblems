@@ -1,0 +1,19 @@
+Problem statement:
+Reverse array in groups 
+
+
+Input:
+arr[] = [1,2,3,4,5]
+k=3
+
+Output:
+3 2 1 4 5
+
+Explanation:
+Reversing groups in size
+k = 3, first group consists of elements
+1, 2, 3. Reversing this group, we have
+elements in order as 3, 2, 1.
+
+
+ 

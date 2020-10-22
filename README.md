@@ -118,6 +118,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 57: Balanced Array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem57)
 
+[Problem 58: Reverse array in groups ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem58)
+
 
 
 
