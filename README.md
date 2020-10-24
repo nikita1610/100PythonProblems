@@ -120,6 +120,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 58: Reverse array in groups ](https://github.com/nikita1610/100PythonProblems/tree/master/Problem58)
 
+[Problem 59: Page Faults in LRU](https://github.com/nikita1610/100PythonProblems/tree/master/Problem59)
+
 
 
 

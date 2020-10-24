@@ -1,0 +1,22 @@
+Problem statement:
+Page Faults in LRU 
+
+
+Input:
+n=9
+a=[5, 0, 1, 3, 2, 4, 1, 0, 5]
+cap=4
+
+Output:
+8
+
+Explanation:
+memory allocated with 4 pages 5, 0, 1, 3: page fault = 4
+page number 2 is required, replaces LRU 5: page fault = 4+1 = 5
+page number 4 is required, replaces LRU 0: page fault = 5 + 1 = 6
+page number 1 is required which is already present: page fault = 6 + 0 = 6
+page number 0 is required which replaces LRU 1: page fault = 6 + 1 = 7
+page number 5 is required which replaces LRU 3: page fault = 7 + 1  =8.
+
+
+ 
