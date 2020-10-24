@@ -1,0 +1,16 @@
+Problem statement:
+Perfect Square String
+
+
+Input:
+s="abcd"
+
+Output:
+No
+
+Explanation:
+You are given a string S. Your task is to determine if sum of 
+ASCII values of all character results in a perfect square or not.
+
+
+ 
