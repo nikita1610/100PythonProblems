@@ -122,6 +122,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 59: Page Faults in LRU](https://github.com/nikita1610/100PythonProblems/tree/master/Problem59)
 
+[Problem 60: Shuffle integers](https://github.com/nikita1610/100PythonProblems/tree/master/Problem60)
+
 
 
 

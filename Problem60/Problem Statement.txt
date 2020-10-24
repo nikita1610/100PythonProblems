@@ -1,0 +1,17 @@
+Problem statement:
+Shuffle integers
+
+
+Input:
+N = 4, 
+arr[] = {1, 2, 9, 15}
+
+Output:
+1 9 2 15
+
+Explanation:
+Given an array arr[] of N elements in the following format {a1, a2, a3, a4, ….., an/2, b1, b2, b3, b4, …., bn/2}, the task is 
+shuffle the array to {a1, b1, a2, b2, a3, b3, ……, an/2, bn/2} without using extra space.
+
+
+ 
