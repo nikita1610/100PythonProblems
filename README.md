@@ -126,6 +126,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 61: Perfect Square String](https://github.com/nikita1610/100PythonProblems/tree/master/Problem61)
 
+[Problem 62: Stock buy and sell](https://github.com/nikita1610/100PythonProblems/tree/master/Problem62)
+
 
 
 
