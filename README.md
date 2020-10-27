@@ -128,6 +128,8 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 62: Stock buy and sell](https://github.com/nikita1610/100PythonProblems/tree/master/Problem62)
 
+[Problem 63: Sum of all numbers present in a string](https://github.com/nikita1610/100PythonProblems/tree/master/Problem63)
+
 
 
 

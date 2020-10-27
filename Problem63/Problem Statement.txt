@@ -1,0 +1,12 @@
+Problem statement:
+Sum of all numbers present in a string
+
+Input:
+1abc2x30yz67
+
+Output:
+100
+
+Explanation:
+The numbers in given string are : 1+2+30+67
+The sum of them is 100.
