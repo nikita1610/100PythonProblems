@@ -130,6 +130,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 63: Sum of all numbers present in a string](https://github.com/nikita1610/100PythonProblems/tree/master/Problem63)
 
+[Problem 64: Check for Anagrams](https://github.com/nikita1610/100PythonProblems/tree/master/Problem64)
 
 
 
