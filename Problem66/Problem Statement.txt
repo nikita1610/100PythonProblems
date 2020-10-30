@@ -1,0 +1,12 @@
+Problem statement:
+Leftmost character that does not repeat
+
+Input:
+abcdabce
+
+Output:
+d
+
+Explanation:
+Given a string, find the first non repeated character present first in the string.
+ 

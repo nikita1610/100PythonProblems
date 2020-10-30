@@ -134,3 +134,5 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 65: Repeated Character Whose First Appearance is Leftmost](https://github.com/nikita1610/100PythonProblems/tree/master/Problem65)
 
+[Problem 66: Leftmost character that does not repeat](https://github.com/nikita1610/100PythonProblems/tree/master/Problem66)
+
