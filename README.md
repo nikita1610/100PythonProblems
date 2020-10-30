@@ -132,5 +132,5 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 64: Check for Anagrams](https://github.com/nikita1610/100PythonProblems/tree/master/Problem64)
 
-
+[Problem 65: Repeated Character Whose First Appearance is Leftmost](https://github.com/nikita1610/100PythonProblems/tree/master/Problem65)
 

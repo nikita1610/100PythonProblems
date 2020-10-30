@@ -1,0 +1,12 @@
+Problem statement:
+Repeated Character Whose First Appearance is Leftmost
+
+Input:
+abcdabcd
+
+Output:
+a
+
+Explanation:
+Given a string, find the repeated character present first in the string.
+ 
