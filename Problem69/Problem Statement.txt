@@ -1,0 +1,11 @@
+Problem statement:
+Sort the Circular Rotated Array
+
+Input:
+[3, 4, 5, 1, 2] 
+
+Output:
+[1,2,3,4,5]
+
+Explanation:
+You have given a circular rotated array. Write a program to sort the circular rotated array.
