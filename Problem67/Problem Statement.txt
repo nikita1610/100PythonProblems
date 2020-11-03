@@ -1,0 +1,13 @@
+Problem statement:
+Check if strings are rotations of each other
+
+Input:
+s1 = ABCD
+s2 = CDAB
+
+Output:
+Yes
+
+Explanation:
+The first string can be rotated two times to get the second string.
+ 
