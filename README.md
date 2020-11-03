@@ -136,3 +136,7 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 66: Leftmost character that does not repeat](https://github.com/nikita1610/100PythonProblems/tree/master/Problem66)
 
+[Problem 67: Check if strings are rotations of each other](https://github.com/nikita1610/100PythonProblems/tree/master/Problem67)
+
+[Problem 68: Image Inversion](https://github.com/nikita1610/100PythonProblems/tree/master/Problem68)
+

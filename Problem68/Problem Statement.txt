@@ -1,0 +1,12 @@
+Problem statement:
+Image Inversion
+
+Input:
+[[1,1,0],[1,0,1],[0,0,0]]
+
+Output:
+[[1,0,0],[0,1,0],[1,1,1]]
+
+Explanation:
+Given a binary matrix we want to flip the image horizontally and then invert it
+Firstly each row of matrix is reversed and each 0 and 1 is converted to 1 and 0 respectively.
