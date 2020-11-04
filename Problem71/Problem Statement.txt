@@ -1,0 +1,13 @@
+Problem statement:
+Reverse String Without Affecting Special Characters
+
+Input:
+abc/defgh$ij
+
+Output:
+jih/gfedc$ba
+
+Explanation:
+You have given a string. There can have multiple special characters inside the string. 
+Write a program to reverse the given string. 
+The position of the special characters should not be changed.
