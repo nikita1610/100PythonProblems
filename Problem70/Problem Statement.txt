@@ -1,0 +1,12 @@
+Problem statement:
+Maximum Length Balanced Parentheses
+
+Input:
+s="{}{}}"
+
+Output:
+4
+
+Explanation:
+You have given a circular rotated array. Write a program to sort the circular rotated array.You have given a string which contains the curly braces (brackets), both opening and closing braces. 
+You have to find the length of the longest balanced subarray.
