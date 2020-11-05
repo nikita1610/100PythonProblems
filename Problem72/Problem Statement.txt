@@ -1,0 +1,13 @@
+Problem statement:
+Subarrays with equal 1s and 0s 
+
+Input:
+7
+1 0 0 1 0 1 1
+
+Output:
+8
+
+Explanation:
+Given an array arr[] of size N containing 0s and 1s only. 
+The task is to count the subarrays having equal number of 0s and 1s.
