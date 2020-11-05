@@ -145,3 +145,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 70: Maximum Length Balanced Parentheses](https://github.com/nikita1610/100PythonProblems/tree/master/Problem70)
 
 [Problem 71: Reverse String Without Affecting Special Characters](https://github.com/nikita1610/100PythonProblems/tree/master/Problem71)
+
+[Problem 72: Subarrays with equal 1s and 0s](https://github.com/nikita1610/100PythonProblems/tree/master/Problem72)
