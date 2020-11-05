@@ -1,4 +1,4 @@
-# 100PythonProblems
+# 100 Python Problems
 
 In this repository I have taken various problem statements each day and have tried to find a optimised solution for each of the problem in terms of both space and time complexity.
 All the codes are done using Python and the respective problem statement for each day is alo mentioned in a separate text file.
