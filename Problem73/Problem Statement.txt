@@ -1,5 +1,5 @@
 Problem statement:
-Count greater elements
+Count smaller elements
 
 Input:
 [8,1,2,2,3]
