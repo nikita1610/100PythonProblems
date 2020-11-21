@@ -1,0 +1,13 @@
+Problem statement:
+Power of a number using various methods.
+
+Input:
+x=4
+y=3
+
+
+Output:
+64
+
+Explanation:
+4 raised to power 3 is 64.
