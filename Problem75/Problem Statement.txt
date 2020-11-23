@@ -1,0 +1,12 @@
+Problem statement:
+Prime numbers ending with 3 or 7
+
+Input:
+10
+
+
+Output:
+[3,7]
+
+Explanation:
+Print all prime numbers less than equal to given number which contains digit 3 or 7 or both.
