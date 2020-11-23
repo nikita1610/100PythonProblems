@@ -150,6 +150,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 73:Count Smaller Elements](https://github.com/nikita1610/100PythonProblems/tree/master/Problem73)
 
-[Problem 74:Power of a number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem73)
+[Problem 74:Power of a number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem74)
 
 [Problem 75: Prime number containing 3 or 7](https://github.com/nikita1610/100PythonProblems/tree/master/Problem75)
