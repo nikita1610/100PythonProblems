@@ -1,0 +1,13 @@
+Problem statement:
+Floor in a sorted array
+
+Input:
+[1, 2, 4, 6, 10, 12, 14] 
+x=7
+
+Output:
+6
+
+Explanation:
+Given a sorted array and a value x, the 
+floor of x is the largest element in array smaller than or equal to x.
