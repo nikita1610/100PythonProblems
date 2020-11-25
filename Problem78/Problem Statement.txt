@@ -1,0 +1,13 @@
+Problem statement:
+Partition String and calculate Score
+
+Input:
+s="011101"
+
+
+Output:
+5
+
+Explanation:
+Return the maximum score after partionining the string.
+Score is calculated as number of zeroes in left substring plus the number of ones in right substring.
