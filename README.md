@@ -155,3 +155,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 75: Prime number containing 3 or 7](https://github.com/nikita1610/100PythonProblems/tree/master/Problem75)
 
 [Problem 76: Floor in a sorted array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem76)
+
+[Problem 77: Ceiling in a sorted array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem77)
