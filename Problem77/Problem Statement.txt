@@ -1,0 +1,13 @@
+Problem statement:
+Ceiling in a sorted array
+
+Input:
+[1, 2, 4, 6, 10, 12, 14] 
+x=7
+
+Output:
+10
+
+Explanation:
+Given a sorted array and a value x, the 
+floor of x is the smallest element in array greater than or equal to x.
