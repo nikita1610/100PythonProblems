@@ -1,0 +1,13 @@
+Problem statement:
+Largest Element
+
+Input:
+l=[3,6,1,0]
+
+
+Output:
+1
+
+Explanation:
+Find whether the largest element in the list is atleast twice as much as every other number in the list.
+If such a number exists return the index of largest element otherise return -1
