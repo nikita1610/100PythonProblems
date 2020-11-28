@@ -157,3 +157,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 76: Floor in a sorted array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem76)
 
 [Problem 77: Ceiling in a sorted array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem77)
+
+[Problem 78: Partition String and calculate Score](https://github.com/nikita1610/100PythonProblems/tree/master/Problem78)
