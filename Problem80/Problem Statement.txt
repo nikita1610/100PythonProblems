@@ -1,0 +1,13 @@
+Problem statement:
+Common Subarray in two lists
+
+Input:
+l=[3,6,1,0]
+b=[3,6,5,4]
+
+
+Output:
+2
+
+Explanation:
+Given two list return the maximum length of subarrays that appears in both the arrays.
