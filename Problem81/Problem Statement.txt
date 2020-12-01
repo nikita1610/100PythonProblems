@@ -1,0 +1,16 @@
+Problem statement:
+Self Dividing Number
+
+Input:
+128
+
+
+Output:
+True
+
+Explanation:
+Return true if the number is self dividing otherwise false.
+A number is said to be self dividing if it leaves no remainder when divided by each digit present in number.
+128%1==0
+128%2==0
+128%8==0
