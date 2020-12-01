@@ -1,0 +1,15 @@
+Problem statement:
+Count words of length k
+
+Input:
+Hello! How are you doing ?
+k=4
+
+
+Output:
+Hello!
+doing
+
+
+Explanation:
+Given a sentence count the words which have length greater than k and print them.
