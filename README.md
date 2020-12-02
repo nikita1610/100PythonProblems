@@ -165,3 +165,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 80: Common Subarray in two lists](https://github.com/nikita1610/100PythonProblems/tree/master/Problem80)
 
 [Problem 81: Self Dividing Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem81)
+
+[Problem 82: Count words of length k](https://github.com/nikita1610/100PythonProblems/tree/master/Problem82)
