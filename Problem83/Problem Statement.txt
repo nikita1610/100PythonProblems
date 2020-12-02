@@ -1,0 +1,16 @@
+Problem statement:
+Election Winner
+
+Input:
+votes= ["john", "johnny", "jackie", "johnny", "john", "jackie", "jamie", "jamie", "john","johnny", "jamie", "johnny", "john"]
+
+
+
+Output:
+John
+
+
+Explanation:
+Given a list of which person voted for which person.
+Find out the winner of the election.
+If two persons have recieved the same number of votes then chose the winner lexicographically.
