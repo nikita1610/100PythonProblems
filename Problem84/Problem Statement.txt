@@ -1,0 +1,17 @@
+Problem statement:
+Check if a number is fibonacci or not
+
+Input:
+10
+
+
+Output:
+False
+
+
+Explanation:
+The output is False as 10 is not fibonnaci number
+fibonaaci series can be explained as follows:
+F(n)=F(n-1)+F(n-2)
+First few fibonacci numbers are as follows:
+0,1,1,2,3,5,8,13....
