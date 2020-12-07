@@ -1,0 +1,14 @@
+Problem statement:
+Montonic Array
+
+Input:
+[7,5,4,4,3,2]
+
+
+Output:
+True
+
+
+Explanation:
+A list or array is said to be montonic if it strictly decreasing or strictly increasing.
+Return True if list is montonic otherwise returns False
