@@ -172,4 +172,4 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 84: Check if a number is fibonacci or not](https://github.com/nikita1610/100PythonProblems/tree/master/Problem84)
 
-[Problem 85:]
+[Problem 85: Length of longest increasing subsequence](https://github.com/nikita1610/100PythonProblems/tree/master/Problem85)
