@@ -1,0 +1,13 @@
+Problem statement:
+Reverse vowels of a string
+
+Input:
+Hello
+
+
+Output:
+Holle
+
+
+Explanation:
+Given a string reverse the order of vowels appearing in the string.
