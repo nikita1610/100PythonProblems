@@ -1,0 +1,16 @@
+Problem statement:
+Minimum moves to equal list elements
+
+Input:
+[1,2,3]
+
+
+Output:
+3
+
+
+Explanation:
+Find the minimum number of moves required to make all list elements equal.
+A move is defined incrementing list elements by 1 and in 1 move you can modify two elements of list.
+
+[1,2,3]->[2,3,3]->[3,4,3]->[4,4,4]
