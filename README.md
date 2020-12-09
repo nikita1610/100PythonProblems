@@ -177,3 +177,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 86: Montonic Array](https://github.com/nikita1610/100PythonProblems/tree/master/Problem86)
 
 [Problem 87: Minimum moves to equal list elements](https://github.com/nikita1610/100PythonProblems/tree/master/Problem87)
+
+[Problem 88:]
