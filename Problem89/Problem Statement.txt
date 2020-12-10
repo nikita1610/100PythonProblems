@@ -1,0 +1,13 @@
+Problem statement:
+Binary Palindrome
+
+Input:
+n=9
+
+
+Output:
+Yes
+
+
+Explanation:
+Binary representation of 9 is 1001 which is a palindrome
