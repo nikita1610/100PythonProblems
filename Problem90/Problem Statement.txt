@@ -1,0 +1,13 @@
+Problem statement:
+Reverse consonants of a string
+
+Input:
+Hello
+
+
+Output:
+lelHo
+
+
+Explanation:
+Given a string reverse the order of consonants appearing in the string.
