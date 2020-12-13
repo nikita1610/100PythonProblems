@@ -1,0 +1,13 @@
+Problem statement:
+K closest points to origin
+
+Input:
+[[1,3],[-2,2]]
+k=1
+
+Output:
+[[-2,2]]
+
+
+Explanation:
+Given a list points find k points that are closest to origin.
