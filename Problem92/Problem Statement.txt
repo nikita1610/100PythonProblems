@@ -1,0 +1,12 @@
+Problem statement:
+Product of list except itself
+
+Input:
+[1,2,3,4]
+
+Output:
+[24,12,8,6]
+
+
+Explanation:
+Given a list return a new list that contains the product of all numbers except the number at the desired index.
