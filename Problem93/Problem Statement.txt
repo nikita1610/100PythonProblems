@@ -1,0 +1,12 @@
+Problem statement:
+Move zeroes
+
+Input:
+[0,0,1,0,3,2]
+
+Output:
+[2,3,1,0,0,0]
+
+
+Explanation:
+Move all zeroes to the end of list.
