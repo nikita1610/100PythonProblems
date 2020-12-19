@@ -187,3 +187,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 91: K closest points to origin](https://github.com/nikita1610/100PythonProblems/tree/master/Problem91)
 
 [Problem 92: Product of list except itself](https://github.com/nikita1610/100PythonProblems/tree/master/Problem92)
+
+[Problem 93: Move zeroes](https://github.com/nikita1610/100PythonProblems/tree/master/Problem92)
