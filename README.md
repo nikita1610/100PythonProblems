@@ -180,9 +180,9 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 88: Reverse vowels of a string](https://github.com/nikita1610/100PythonProblems/tree/master/Problem88)
 
-[Problem 89: Binary Palindrome]((https://github.com/nikita1610/100PythonProblems/tree/master/Problem89)
+[Problem 89: Binary Palindrome](https://github.com/nikita1610/100PythonProblems/tree/master/Problem89)
 
-[Problem 90 : Reverse consonants of a string]((https://github.com/nikita1610/100PythonProblems/tree/master/Problem90)
+[Problem 90 : Reverse consonants of a string](https://github.com/nikita1610/100PythonProblems/tree/master/Problem90)
 
 [Problem 91: K closest points to origin](https://github.com/nikita1610/100PythonProblems/tree/master/Problem91)
 
