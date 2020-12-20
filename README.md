@@ -188,4 +188,6 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 92: Product of list except itself](https://github.com/nikita1610/100PythonProblems/tree/master/Problem92)
 
-[Problem 93: Move zeroes](https://github.com/nikita1610/100PythonProblems/tree/master/Problem92)
+[Problem 93: Move zeroes](https://github.com/nikita1610/100PythonProblems/tree/master/Problem93)
+
+[Problem 94: Sort Strings by punctuation count](https://github.com/nikita1610/100PythonProblems/tree/master/Problem94)
