@@ -1,0 +1,12 @@
+Problem statement:
+Consecutive identical elements count
+
+Input:
+[4, 5, 5, 5, 5, 6, 6, 7, 8, 2, 2, 10] 
+ 
+Output:
+3
+
+
+Explanation:
+5, 6 and 2 has identical element as their next element.
