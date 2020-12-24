@@ -191,3 +191,5 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 93: Move zeroes](https://github.com/nikita1610/100PythonProblems/tree/master/Problem93)
 
 [Problem 94: Sort Strings by punctuation count](https://github.com/nikita1610/100PythonProblems/tree/master/Problem94)
+
+[Problem 95: Consecutive identical elements count(https://github.com/nikita1610/100PythonProblems/tree/master/Problem95)
