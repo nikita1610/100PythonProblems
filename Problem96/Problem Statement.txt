@@ -1,0 +1,13 @@
+Problem statement:
+Equidistant consecutive characters Strings
+
+Input:
+[“abcd”, “egil”, “mpsv”, “abd”]  
+ 
+Output:
+["abcd","mpsv"]
+
+
+Explanation:
+In mpsv, consecutive characters are at distance 3.
+In abcd, consecutive characters are at distance 1
