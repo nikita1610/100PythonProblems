@@ -167,7 +167,7 @@ All the codes are done using Python and the respective problem statement for eac
 [Problem 81: Self Dividing Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem81)
 
 [Problem 82: Count words of length k](https://github.com/nikita1610/100PythonProblems/tree/master/Problem82)
-
+  
 [Problem 83: Election Winner](https://github.com/nikita1610/100PythonProblems/tree/master/Problem83)
 
 [Problem 84: Check if a number is fibonacci or not](https://github.com/nikita1610/100PythonProblems/tree/master/Problem84)
@@ -198,4 +198,4 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 97: Happy Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem97)
 
-[Problem 98:]
+[Problem 98: Nth Natural Number]
