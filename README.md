@@ -198,4 +198,4 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 97: Happy Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem97)
 
-[Problem 98: Nth Natural Number]
+[Problem 98: Nth Natural Number(https://github.com/nikita1610/100PythonProblems/tree/master/Problem97)
