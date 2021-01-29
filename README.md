@@ -200,4 +200,4 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 98: Nth Natural Number](https://github.com/nikita1610/100PythonProblems/tree/master/Problem98)
 
-[Problem 99: Smallest Positive Integer]
+[Problem 99: Smallest Positive Integer](https://github.com/nikita1610/100PythonProblems/tree/master/Problem99)
