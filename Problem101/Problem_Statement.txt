@@ -1,0 +1,16 @@
+Problem statement:
+Valid Pair Sum
+
+Input:
+ N = 3, a[] = {3, -2, 1}
+
+Ouptut:
+2
+
+Explanation:
+Given an array of size N, find the number of distinct pairs {a[i], a[j]} (i != j) in the array with their sum greater than 0.
+ {3, -2}, {3, 1} are two 
+possible pairs.
+
+
+
