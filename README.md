@@ -202,4 +202,4 @@ All the codes are done using Python and the respective problem statement for eac
 
 [Problem 99: Smallest Positive Integer](https://github.com/nikita1610/100PythonProblems/tree/master/Problem99)
 
-[Problem 100 : Valid Pair Sum]()
+[Problem 100 : Valid Pair Sum](https://github.com/nikita1610/100PythonProblems/tree/master/Problem100)
